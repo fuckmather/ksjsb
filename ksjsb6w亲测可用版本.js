@@ -223,7 +223,7 @@ let _0x134a17 = new Date(),
     _0x459e63 = 1.07,
     _0x2e716e = 0,
     _0x5bc515 = "ksjsb",
-    _0x180c0c = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json",
+    _0x180c0c = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json1",
     ksjsbjk = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ksjsb-ziye.json",
     _0x75eec0 = "https://127.0.0.1/";
 
